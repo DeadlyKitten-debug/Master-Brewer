@@ -40,7 +40,7 @@ Or by seeing what is being planned and finished below;
 The Master Brewer Mod is currently looking for help with translations, if you'd like to help out translating this mod you can DM me on [Discord](https://discord.com/), my user name is `DeadlyKitten#0148`. Down below is a list of languages that still need contributers for translations; 
 
 - [x] Russian - Mr. Egg
-- [ ] Chines
+- [ ] Chinese
 - [ ] French
 - [ ] German
 - [ ] Hungarian
