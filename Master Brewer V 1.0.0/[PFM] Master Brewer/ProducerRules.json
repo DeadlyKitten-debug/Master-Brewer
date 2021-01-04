@@ -1,0 +1,69 @@
+[
+	{
+        "ProducerName": "Vodka Distiller",
+        "InputIdentifier": "192",
+        "InputStack": 2,
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Homemade Vodka",
+    },
+	{
+        "ProducerName": "Vodka Distiller",
+        "InputIdentifier": "262",
+        "InputStack": 2,
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Homemade Vodka",
+    },
+	{
+        "ProducerName": "Vodka Distiller",
+        "InputIdentifier": "270",
+        "InputStack": 2,
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Homemade Vodka",
+    },
+	
+	//Homemade Extractor
+	
+	{
+		"ProducerName": "Homemade Extractor",
+        "InputIdentifier": "-79",
+        "InputStack": 1,
+        "MinutesUntilReady": 600,
+        "OutputIdentifier": "Extract",
+        "OutputName": "{inputName} Extract",
+        "OutputColorConfig":
+        {
+            "Type": "ObjectDyeColor",
+            "Red": 204,
+            "Green": 203,
+            "Blue": 243
+        },
+		"KeepInputParentIndex": true,
+        "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 2,
+        },
+		
+	//Infuser
+	
+	{
+		"ProducerName": "Homemade Infuser",
+		"InputIdentifier" : "Extract",
+		"InputStack": 1,
+		"FuelIdentifier": "Homemade Vodka",
+		"FuelStack": 1,
+		"MinutesUntilReady": 1750,
+		"OutputIdentifier": "Homemade Flavoured Vodka",
+		"OutputName": "Homemade {inputName} Flavoured Vodka",
+		 "OutputColorConfig":
+        {
+            "Type": "ObjectDyeColor",
+            "Red": 204,
+            "Green": 203,
+            "Blue": 243
+        },
+		"KeepInputParentIndex": true,
+		"InputPriceBased": true,
+		"OutputPriceMultiplier": 2,
+		},
+		
+]		

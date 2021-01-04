@@ -1,0 +1,15 @@
+
+{
+    "Name": "Vodka Distiller",
+    "Description": "A distillation system used to make vodka.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 2000,
+	"PurchaseRequirements": ["y 1", ],
+    }
+    
+

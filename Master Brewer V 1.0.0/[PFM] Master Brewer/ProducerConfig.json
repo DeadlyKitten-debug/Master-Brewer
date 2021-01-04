@@ -1,0 +1,43 @@
+[
+	{
+		"ProducerName": "Vodka Distiller", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+		"DisableBouncingAnimationWhileWorking": false,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [2],
+   		},
+		
+	{
+		"ProducerName": "Homemade Extractor",
+		"AlternateFrameProducing": false,
+		"AlternateFrameWhenReady": false
+		"DisableBouncingAnimationWhileWorking": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [1],
+			"FrameInterval": 10
+		},
+		"ReadyAnimation":
+		{
+			"RelativeFrameIndex": [1],
+		},	
+			
+	{
+		"ProducerName": "Homemade Infuser"	
+		"AlternateFrameProducing": false,
+		"AlternateFrameWhenReady": false,
+		"DisableBouncingAnimationWhileWorking": false,
+		"ProducingAnimation": {
+			"RelativeFrameIndex": [1],
+			"FrameInterval": 10
+		},
+		"ReadyAnimation":
+		{
+			"RelativeFrameIndex": [1],
+		},	
+]

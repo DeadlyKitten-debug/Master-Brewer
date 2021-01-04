@@ -1,0 +1,16 @@
+
+{
+    "Name": "Homemade Infuser",
+    "Description": "Mixes extracts into alcohol.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 3000,
+	"PurchaseRequirements": ["y 1", ],
+    }
+	
+    
+

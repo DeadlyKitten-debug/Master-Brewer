@@ -1,0 +1,17 @@
+﻿{
+    "Name": "[PFM] Master Brewer",
+    "Author": "Deadly Kitten",
+    "Version": "1.0.0",
+    "Description": "Master Brewer Producer Framework Mod component.",
+    "UniqueID": "dk.Masterbrewer",
+    "MinimumApiVersion": "3.7.0",
+    "Dependencies": [
+    {
+        "UniqueID": "dk.masterbrewergoods",
+        "IsRequired": true
+    },     ],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    },    
+}

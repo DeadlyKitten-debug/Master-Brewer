@@ -1,0 +1,12 @@
+{
+    "Name": "Master Brewer Goods",
+    "Author": "Deadly_Kitten",
+    "Description": "Adds new machines and liquers that you can craft",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.7.0",
+    "UniqueID": "dk.masterbrewergoods",
+	"ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": [""],
+}

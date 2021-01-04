@@ -1,0 +1,14 @@
+
+{
+    "Name": "Homemade Extractor",
+    "Description": "A Extractor to extract flavours from fruits.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 3000,
+	"PurchaseRequirements": ["y 1", ],
+    }
+    
